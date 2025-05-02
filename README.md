@@ -7,8 +7,8 @@ The goal of this GitHub repository is to capture metadata and transcriptions for
 Repository structure for vs-archive-project:
 
 interviews/
-    ├── yyyy-mm-dd-guest-name/
-        └── filler_interview_test.txt
+├── yyyy-mm-dd-guest-name/
+    └── filler_interview_test.txt
     └── filler_interviews.txt
 issues/
     └── filler_issues.txt
