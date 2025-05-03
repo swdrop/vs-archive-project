@@ -1,7 +1,5 @@
 NOTE: This source of this transcript excerpt is [Tom Waits Library](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/) not WhisperAI
 
-WNEW FM: Vin Scelsa's Idiot's Delight
-
 Tom Waits (TW): vocals and piano  
 Ralph Ebler (Edler?/ Adler?): percussion  
 Vin Scelsa (VS): Interviewer, production supervisor  
