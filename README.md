@@ -25,3 +25,10 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 │   ├── vs_project_board.md         # project status tracker
 ├── LICENSE
 └── README.md                       # what you're currently reading 🙂
+
+|-- kibana
+    |-- .bowerrc
+    |-- .gitignore
+    |-- .jshintrc
+    |-- .travis.yml
+    |-- CONTRIBUTING.md
