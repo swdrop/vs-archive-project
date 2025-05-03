@@ -1,10 +1,10 @@
-NOTE: This source of this text excerpt is [Tom Waits Library](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/) not WhisperAI
+NOTE: This source of this transcript excerpt is [Tom Waits Library](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/) not WhisperAI
 
 WNEW FM: Vin Scelsa's Idiot's Delight
 
-Tom Waits: vocals and piano.
+Tom Waits (TW): vocals and piano.
 Ralph Ebler (Edler?/ Adler?): percussion.
-Interviewer/ production supervisor: Vin Scelsa
+Interviewer/ production supervisor: Vin Scelsa (VS)
 
 ***[Waits and Ebler start intro to "Emotional Weather Report"]
 
