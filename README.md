@@ -7,8 +7,8 @@ The goal of this GitHub repository is to capture metadata and transcriptions for
 Repository structure for vs-archive-project:
 
 .
-interviews/                         # folder per interview 
-└──  yyyy-mm-dd-guest-name/          # folder naming format 
+interviews/                         # folder per interview\ 
+└──  yyyy-mm-dd-guest-name/          # folder naming format\ 
     └── filler_interview_test.txt   # temporary file 
     └── filler_interviews.txt       # temporary file
     └── metadata.csv                # metadata for individual interview and digitiazed audio file
