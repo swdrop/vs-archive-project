@@ -6,11 +6,11 @@ Tom Waits (TW): vocals and piano.
 Ralph Ebler (Edler?/ Adler?): percussion.
 Interviewer/ production supervisor: Vin Scelsa (VS)
 
-*[Waits and Ebler start intro to "Emotional Weather Report"]
+- [Waits and Ebler start intro to "Emotional Weather Report"]
 
 VS: [with a jazzy voice] Good evening... This is Vin Scelsa... The man at the piano is Tom Waits... Ralph Ebler at the drums. It's a December's night in New York City... Tom and Ralph and I kinda find ourselves sequestered in the deep bowels of a recording studio of 8th Avenue here in New York... Me and Tom and Ralph and... a couple of bottles of beer... Old... [Waits starts singing]... Hey Tom!
 
-*[Waits/ Ebler: "Emotional Weather Report"]
+- [Waits/ Ebler: "Emotional Weather Report"]
 
 **VS: Okay! Okay... How are you Tom?
 **TW: [growling and mumbling and lighting a cigarette] Oh eh under the circumstances... Just came eh... got here eh this afternoon from ehm Cleveland/ Ohio. I was in Cleveland for a couple of days(1). Every now and then you just have to go to Cleveland. Whether you like it or not [laughter from Scelsa]. Huh, huh. Eh....
@@ -37,4 +37,4 @@ VS: [with a jazzy voice] Good evening... This is Vin Scelsa... The man at the pi
 **VS: Yeah a California song. For the folks in New York on a cold December night.
 **TW: Oh eh, I don't know let's see eh... Ahmmm... Ahm... [plays intro to "Invitation To The Blues"]... Well, some things are not necessarily indigenous only in Los Angeles or California. You know eh, it depends on eh what/ where you go... Aaahhh let's see.... Ehmmm I can do you a little story here. This is eh, about running into an old partner after a long time eh... Let's see here eh... I was gone for eh quite a while on the road doing clubs and eh, I ran into a cat named Joe Marlelongo(4). I used to take out his sister. I used to take out both of his sisters. I mean individually... yeah... And eh... I ended up at a place called the Tiki Room eh one night and eh Joe showed up... But eh, it was kind of a eh time to reminisce, and eh...
 
-*[Waits: "Sight For Sore Eyes"]
+- [Waits: "Sight For Sore Eyes"]
