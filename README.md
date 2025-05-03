@@ -5,7 +5,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 - The goal of this GitHub repository is to (eventually) capture metadata and transcriptions for the interviews as well as provide status and workflow documentation.
 
 ## Repository structure for vs-archive-project:
-````
+```
 .
 ├── interviews/                         # folder per interview 
 │   ├── yyyy-mm-dd-guest-name/          # template folder, showing naming format 
@@ -16,7 +16,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 │   │   ├── _transcription_edited.md    # edited transcription text of individual interview, reviewed by a human
 │   ├── 1974-12-14-tom-waits/           # example using Tom Waits interview data 
 │   │   ├── _metadata.csv               # metadata for Tom Waits interview
-│   │   ├── _transcription_raw.md       # transcription text of Tom Waits interview ([source](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight))
+│   │   ├── _transcription_raw.md       # transcription text of Tom Waits interview*
 │   │   ├── _transcription_edited.md    # edited transcription text of individual interview, reviewed by a human
 ├── issues/
 │   ├── filler_issues.txt
@@ -29,3 +29,5 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 │   ├── vs_project_board.md         # project status tracker
 ├── LICENSE
 └── README.md                       # what you're currently reading 🙂
+```
+* Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
