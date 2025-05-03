@@ -16,14 +16,12 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 │   │   ├── _transcription_edited.md    # edited transcription text of individual interview, reviewed by a human
 │   ├── 1974-12-14-tom-waits/           # example using Tom Waits interview data 
 │   │   ├── _metadata.csv               # metadata for Tom Waits interview
-│   │   ├── _transcription_raw.md       # transcription text of Tom Waits interview (see source information below)
-│   │   ├── _transcription_edited.md    # edited transcription text of individual interview, reviewed by a human
+│   │   ├── _transcription_raw.md       # Tom Waits interview transcription excerpt (see source information below)
 ├── issues/
 │   ├── filler_issues.txt
 ├── metadata/                           
 │   ├── filler_metadata.txt         # temporary file
 │   ├── vs_metadata_master.csv      # compiled metadata for the project
-│   ├── vs_metadata_schema.json     # metadata schema for the project, based on PBCore
 ├── workflows/                      # workflow documentation files
 │   ├── filler_workflows.txt        # temporary file
 │   ├── vs_project_board.md         # project status tracker
