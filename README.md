@@ -31,9 +31,11 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 * Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
 
 ## Project Board
-vs-archive-project board is used as this project's central task list, with the following status levels: 
+vs-archive-project board is used as this project's central task list. Contributors to this project should add Issues to the Project Board, assign roles and select from the following status levels: 
 
 - To Do
 - In Progress
 - Review
 - Done
+
+**Contributors:** Pleae continue to update assignments and status levels as tasks are added and progress.
