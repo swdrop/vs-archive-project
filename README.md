@@ -16,7 +16,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 │   │   ├── _transcription_edited.md    # edited transcription text of individual interview, reviewed by a human
 │   ├── 1974-12-14-tom-waits/           # example using Tom Waits interview data 
 │   │   ├── _metadata.csv               # metadata for Tom Waits interview
-│   │   ├── _transcription_raw.md       # transcription text of Tom Waits interview*
+│   │   ├── _transcription_raw.md       # transcription text of Tom Waits interview (see source information below)
 │   │   ├── _transcription_edited.md    # edited transcription text of individual interview, reviewed by a human
 ├── issues/
 │   ├── filler_issues.txt
