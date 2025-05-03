@@ -5,7 +5,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for future work 
 - The goal of this GitHub repository is to capture metadata and transcriptions for the interviews as well as provide status and workflow documentation.
 
 ## Repository structure for vs-archive-project:
-
+````
 .
 ├── interviews/                     # folder per interview\ 
 │   ├── yyyy-mm-dd-guest-name/      # folder naming format\ 
