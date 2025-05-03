@@ -1,8 +1,8 @@
 # vs-archive-project
 
 Preliminary plans for the Vin Scelsa Archive Project, developed for future work in collaboration with [Fordham University Libraries](https://www.fordham.edu/resources/libraries/) and [WFUV](http://wfuv.org). 
-- The goal of the overall project is to reformat Vin's interview recordings and make them as accessible as copyright and storage will allow. 
-- The goal of this GitHub repository is to capture metadata and transcriptions for the interviews as well as provide status and workflow documentation.
+- The goal of the overall project is to reformat Vin's collection of audio interview recordings and make them as accessible as copyright and storage will allow. 
+- The goal of this GitHub repository is to (eventually) capture metadata and transcriptions for the interviews as well as provide status and workflow documentation.
 
 ## Repository structure for vs-archive-project:
 ````
