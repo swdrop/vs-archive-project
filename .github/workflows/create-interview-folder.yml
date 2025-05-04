@@ -1,25 +1,32 @@
 name: create interview folder on _metadata.csv upload
-
 on:
   push:
     paths:
-      - 'metadata/*.csv'  # watches for CSV uploads in this folder
+      - 'uploads/*_metadata.csv'
 
 jobs:
-  create_directory:
+  process_csv:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Create directory for each uploaded CSV
+      - name: Create interview folder, move csv, and delete original upload
         run: |
-          for filepath in uploads/*.csv; do
+          for filepath in uploads/*_metadata.csv; do
+            [ -f "$filepath" ] || continue
             filename=$(basename "$filepath" .csv)
-            dirpath="interviews/${filename}"
-            mkdir -p "$dirpath"
-            echo "Auto-created directory for $filename.csv" > "$dirpath/README.md"
+            target_dir="interviews/${filename}"
+            
+            # Create interview folder
+            mkdir -p "$target_dir"
+
+            # Move the csv into the new folder
+            mv "$filepath" "$target_dir/${filename}.csv"
+
+            # Optionally add a README or log
+            echo "# interview: $filename" > "$target_dir/README.md"
           done
 
       - name: Commit changes
@@ -27,5 +34,7 @@ jobs:
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add interviews/
-          git commit -m "created interview folder for new _metadata.csv upload" || echo "No changes to commit"
+          git rm -f uploads/*.csv || echo "Nothing to remove"
+          git commit -m "create interview folder from _metadata.csv upload" || echo "No changes to commit"
           git push
+
