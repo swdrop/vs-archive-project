@@ -15,7 +15,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 │   ├── 1974-12-14-tom-waits/           # example using Tom Waits interview data 
 │   │   ├── _metadata.csv               # metadata for Tom Waits interview
 │   │   ├── _transcription_raw.md       # Tom Waits interview transcription excerpt (see source information below)
-│   ├── 1998-11-24-lou-reed/            # example using Lou Reed interview data, added via create-interview-folder action
+│   ├── 1998-11-29-lou-reed/            # example using Lou Reed interview data, added via create-interview-folder action
 │   │   ├── _metadata.csv               # metadata for Lou Reed interview
 ├── issues/
 │   ├── filler_issues.txt
