@@ -15,14 +15,18 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 │   ├── 1974-12-14-tom-waits/           # example using Tom Waits interview data 
 │   │   ├── _metadata.csv               # metadata for Tom Waits interview
 │   │   ├── _transcription_raw.md       # Tom Waits interview transcription excerpt (see source information below)
+│   ├── 1998-11-24-lou-reed/            # example using Lou Reed interview data, added via create-interview-folder action
+│   │   ├── _metadata.csv               # metadata for Lou Reed interview
 ├── issues/
 │   ├── filler_issues.txt
 ├── metadata/                           
-│   ├── vs-metadata-master.csv      # compiled metadata for the project
-├── workflows/                      # workflow documentation files
-│   ├── vs-project-board.md         # project status tracker
+│   ├── vs-metadata-template.csv        # metadata template for the project
+│   ├── compiled/                       # directory for compiled metadata for the project
+│   │   ├── vs-metadata-master.csv      # compiled master metadata file
+├── workflows/                          # workflow documentation files
+│   ├── vs-project-board.tsv            # exported data from Project Board status tracker
 ├── LICENSE
-└── README.md                       # what you're currently reading 🙂
+└── README.md                           # what you're currently reading 🙂
 ```
 * Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
 
