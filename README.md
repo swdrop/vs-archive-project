@@ -25,14 +25,14 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 ```
 
 ## Where to start for each interview
-1. From the [/metadata](https://github.com/swdrop/vs-archive-project/tree/612b461669bf237c7dab1d20db940b0a365a5e4f/metadata) directory, download the template file [vs_metadata_template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
+1. From the [/metadata](https://github.com/swdrop/vs-archive-project/tree/612b461669bf237c7dab1d20db940b0a365a5e4f/metadata) directory, download the template file [vs-metadata-template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
 2. Open template, add any known metadata for the interview and save the updated file using the interview date and guest name in the following naming format: yyyy-mm-dd-guest-name_metadata.csv.
 3. Upload the _metadata.csv file to [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews). This will trigger the creation of a new folder that contains the _metadata.csv file.
 4. Check [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews) to confirm new folder was created, and use this folder for any future file uploads related to this interview.
 
 ## Metadata
 Currently, a very basic metadata schema is in place for capturing essential identifying details of these interview recordings. Further evaluation should take place before the project progresses further to close the following Issues:
-- Expand the metadata schema and align it with PBCore. To refine the fields used, refer to the [PBCore 2.1 GitHub repository](https://github.com/PBCore-AV-Metadata/PBCore_2.1.git).
+- Expand the metadata schema and align it with PBCore. To refine the fields used, refer to the [PBCore 2.1 GitHub repository](https://github.com/PBCore-AV-Metadata/PBCore_2.1.git), and remember to update any previous versions of metadata files and templates.
 - Establish identification (ID) number schema and plan. The physical items need ID numbers and barcodes and each corresponding digital item should be assigned as an instantiation numbers of that main ID number.
 
 ## Project Board
