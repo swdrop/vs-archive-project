@@ -12,21 +12,21 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
-      - name: Create interview folder, move csv, and delete original upload
+      - name: Create interview folder, move csv into folder
         run: |
           for filepath in interviews/*_metadata.csv; do
             [ -f "$filepath" ] || continue
-            filename=$(basename "$filepath" .csv)
-            foldername="${filename/_metadata/}"
-            target_dir="interviews/${foldername}"
+
+            full_filename=$(basename "$filepath")             # e.g., yyyy-mm-dd-guest-name_metadata.csv
+            filename_no_ext="${full_filename%.csv}"           # e.g., yyyy-mm-dd-guest-name_metadata
+            foldername="${filename_no_ext/_metadata/}"        # e.g., yyyy-mm-dd-guest-name
             
             # Create interview folder
+            target_dir="interviews/${foldername}"
             mkdir -p "$target_dir"
-            mv "$filepath" "$target_dir/${filename}.csv"
 
-            # Move the csv into the new folder
-            mv "$filepath" "$target_dir/${filename}.csv"
-            echo "# Interview: $foldername" > "$target_dir/README.md"
+            # Move the file with original name (incl. _metadata)
+            mv "$filepath" "$target_dir/$full_filename"
             
           done
 
@@ -37,4 +37,3 @@ jobs:
           git add interviews/
           git commit -m "create interview folder from _metadata.csv upload" || echo "No changes to commit"
           git push
-
