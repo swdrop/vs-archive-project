@@ -17,10 +17,12 @@ jobs:
           for filepath in interviews/*_metadata.csv; do
             [ -f "$filepath" ] || continue
             filename=$(basename "$filepath" .csv)
+            foldername="${filename/_metadata/}"
             target_dir="interviews/${filename}"
             
             # Create interview folder
             mkdir -p "$target_dir"
+            mv "$filepath" "$target_dir/${filename}.csv"
 
             # Move the csv into the new folder
             mv "$filepath" "$target_dir/${filename}.csv"
