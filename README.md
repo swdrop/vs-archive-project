@@ -20,7 +20,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 │   ├── vs-project-board.tsv            # exported data from Project Board status tracker
 ├── .github/workflows/                 
 │   ├── create-interview-folder.yml     # Action for _metadata.csv file upload to trigger new folder creation in interviews/ directory 
-├── LICENSE
+├── LICENSE                             # Opted for MIT
 └── README.md                           # what you're currently reading 🙂
 ```
 
