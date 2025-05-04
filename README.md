@@ -31,7 +31,9 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 4. Check [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews) to confirm new folder was created, and use this folder for any future file uploads related to this interview.
 
 ## Metadata
-Currently, a very basic metadata schema is in place. PBCore is an ideal schema to incorporate into this project before it progresses further. For evaluation, visit the [PBCore 2.1 GitHub repository](https://github.com/PBCore-AV-Metadata/PBCore_2.1.git).
+Currently, a very basic metadata schema is in place for capturing essential identifying details of these interview recordings. Further evaluation should take place before the project progresses further to close the following Issues:
+- PBCore is an ideal metadata schema for this project. To refine the fields used, refer to the [PBCore 2.1 GitHub repository](https://github.com/PBCore-AV-Metadata/PBCore_2.1.git).
+- The physical items need ID numbers and barcodes and the corresponding digital items should be assigned subsequent instantiation numbers of that main ID number.
 
 ## Project Board
 vs-archive-project board is used as this project's central task list. Contributors to this project should add Issues to the Project Board, assign roles and select from the following status levels: 
