@@ -4,7 +4,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 - The goal of the overall project is to reformat Vin's collection of audio interview recordings and make them as accessible as copyright and storage will allow. 
 - The goal of this GitHub repository is to (eventually) capture metadata and transcriptions for the interviews as well as provide status and workflow documentation.
 
-## Repository structure for vs-archive-project:
+## Repository structure for vs-archive-project
 ```
 .
 ├── interviews/                         # folder per interview 
@@ -24,7 +24,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 └── README.md                           # what you're currently reading 🙂
 ```
 
-## Where to start for each interview:
+## Where to start for each interview
 1. From the [/metadata](https://github.com/swdrop/vs-archive-project/tree/612b461669bf237c7dab1d20db940b0a365a5e4f/metadata) directory, download the template file [vs_metadata_template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
 2. Open template, add any known metadata for the interview and save the updated file using the interview date and guest name in the following naming format: yyyy-mm-dd-guest-name_metadata.csv.
 3. Upload the _metadata.csv file to [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews). This will trigger the creation of a new folder that contains the _metadata.csv file.
@@ -49,3 +49,4 @@ vs-archive-project board is used as this project's central task list. Contributo
 - Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
 - Lou Reed interview information source: [WFUV.org](https://wfuv.org/content/vin-scelsa-shares-1998-interview-lou-reed-idiots-delight)
 - [ChatGPT](https://chatgpt.com/) was used to help troubleshoot errors encountered while developing the Action script for [create-interview-folder.yml](https://github.com/swdrop/vs-archive-project/blob/acf82fba800eb31864bc2f1022401d96b97a7632/.github/workflows/create-interview-folder.yml).
+- Primary GitHub information source: [Chris Diaz](https://github.com/chrisdaaz)
