@@ -2,7 +2,7 @@ name: create interview folder on _metadata.csv upload
 on:
   push:
     paths:
-      - 'uploads/*_metadata.csv'
+      - 'uploads/*.csv'
 
 jobs:
   process_csv:
