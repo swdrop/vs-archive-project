@@ -40,5 +40,8 @@ vs-archive-project board is used as this project's central task list. Contributo
 
 **@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.
 
-## Where to start:
-
+## Where to start for each interview:
+1. Download metadata template file: vs-archive-project/metadata/vs_metadata_template.csv
+2. Save file with the following naming format: yyyy-mm-dd-guest-name_metadata.csv
+3. Upload metadata csv file to vs-archive-project/interviews. This will trigger the creation of a new folder containing the metadata csv file.
+4. Check vs-archive-project/interviews for new folder and use this folder for any uploads related to this interview. 
