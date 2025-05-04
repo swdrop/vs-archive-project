@@ -32,8 +32,8 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 
 ## Metadata
 Currently, a very basic metadata schema is in place for capturing essential identifying details of these interview recordings. Further evaluation should take place before the project progresses further to close the following Issues:
-- PBCore is an ideal metadata schema for this project. To refine the fields used, refer to the [PBCore 2.1 GitHub repository](https://github.com/PBCore-AV-Metadata/PBCore_2.1.git).
-- The physical items need ID numbers and barcodes and the corresponding digital items should be assigned subsequent instantiation numbers of that main ID number.
+- Expand the metadata schema and align it with PBCore. To refine the fields used, refer to the [PBCore 2.1 GitHub repository](https://github.com/PBCore-AV-Metadata/PBCore_2.1.git).
+- Establish identification number schema and plan. The physical items need ID numbers and barcodes and the corresponding digital items should be assigned subsequent instantiation numbers of that main ID number.
 
 ## Project Board
 vs-archive-project board is used as this project's central task list. Contributors to this project should add Issues to the Project Board, assign roles and select from the following status levels: 
