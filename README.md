@@ -36,7 +36,7 @@ Currently, a very basic metadata schema is in place for capturing essential iden
 - Establish identification (ID) number schema and plan. The physical items need ID numbers and barcodes and each corresponding digital item should be assigned as an instantiation numbers of that main ID number.
 
 ## Project Board
-[vs-archive-project](https://github.com/users/swdrop/projects/1/) is used as this project's central task list. Contributors to this project should add Issues to the Project Board, assign roles and select from the following status levels: 
+[vs-archive-project-board](https://github.com/users/swdrop/projects/1/) is used as this project's central task list. Contributors to this project should add Issues to the Project Board, assign roles and select from the following status levels: 
 
 - To Do
 - In Progress
