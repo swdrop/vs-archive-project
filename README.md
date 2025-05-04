@@ -49,4 +49,4 @@ vs-archive-project board is used as this project's central task list. Contributo
 - Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
 - Lou Reed interview information source: [WFUV.org](https://wfuv.org/content/vin-scelsa-shares-1998-interview-lou-reed-idiots-delight)
 - [ChatGPT](https://chatgpt.com/) was used to help troubleshoot errors encountered while developing the Action script for [create-interview-folder.yml](https://github.com/swdrop/vs-archive-project/blob/acf82fba800eb31864bc2f1022401d96b97a7632/.github/workflows/create-interview-folder.yml).
-- Primary GitHub information source: [Chris Diaz](https://github.com/chrisdaaz)
+- Primary GitHub information and help source: [Chris Diaz](https://github.com/chrisdaaz)
