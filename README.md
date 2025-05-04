@@ -16,7 +16,7 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 │   ├── vs-metadata-template.csv        # metadata template for the project
 │   ├── compiled/                       # directory for compiled metadata for the project
 │   │   ├── vs-metadata-master.csv      # compiled master metadata file
-├── workflow/                           # workflow documentation files
+├── workflow/                           # workflow documentation
 │   ├── vs-project-board.tsv            # exported data from Project Board status tracker
 ├── .github/workflows/                 
 │   ├── create-interview-folder.yml     # Action for _metadata.csv file upload to trigger new folder creation in interviews/ directory 
