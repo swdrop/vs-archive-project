@@ -24,6 +24,15 @@ Preliminary plans for the Vin Scelsa Archive Project, developed for (hopeful) fu
 └── README.md                           # what you're currently reading 🙂
 ```
 
+## Where to start for each interview:
+1. From [/metadata](https://github.com/swdrop/vs-archive-project/tree/612b461669bf237c7dab1d20db940b0a365a5e4f/metadata) directory, download the file [vs_metadata_template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
+2. Save file with the following naming format: yyyy-mm-dd-guest-name_metadata.csv
+3. Upload metadata csv file to [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews). This will trigger the creation of a new folder that contains the metadata csv file.
+4. Check [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews) to confirm new folder was created, and use this folder for any future file uploads related to this interview.
+
+## Metadata
+Currently, a very basic metadata schema is in place
+
 ## Project Board
 vs-archive-project board is used as this project's central task list. Contributors to this project should add Issues to the Project Board, assign roles and select from the following status levels: 
 
@@ -32,15 +41,7 @@ vs-archive-project board is used as this project's central task list. Contributo
 - Review
 - Done
 
-**@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.
-
-## Where to start for each interview:
-1. From [/metadata](https://github.com/swdrop/vs-archive-project/tree/612b461669bf237c7dab1d20db940b0a365a5e4f/metadata) directory, download the file [vs_metadata_template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
-2. Save file with the following naming format: yyyy-mm-dd-guest-name_metadata.csv
-3. Upload metadata csv file to [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews). This will trigger the creation of a new folder that contains the metadata csv file.
-4. Check [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews) to confirm new folder was created, and use this folder for any future file uploads related to this interview.
-
-## Credits
+**@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.## Credits
 - Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
 - Lou Reed interview information source: [WFUV.org](https://wfuv.org/content/vin-scelsa-shares-1998-interview-lou-reed-idiots-delight)
 - ChatGPT was used to help troubleshoot errors encountered while developing the create-interview-folder.yml Action script
