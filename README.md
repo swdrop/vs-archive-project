@@ -43,7 +43,9 @@ vs-archive-project board is used as this project's central task list. Contributo
 - Review
 - Done
 
-**@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.## Credits
+**@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.
+
+## Credits
 - Tom Waits interview information source: [Tom Waits Library.info](http://tomwaitslibrary.info/biography/interviews/wnew-fm-idiots-delight/)
 - Lou Reed interview information source: [WFUV.org](https://wfuv.org/content/vin-scelsa-shares-1998-interview-lou-reed-idiots-delight)
 - ChatGPT was used to help troubleshoot errors encountered while developing the create-interview-folder.yml Action script
