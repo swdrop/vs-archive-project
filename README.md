@@ -35,7 +35,7 @@ vs-archive-project board is used as this project's central task list. Contributo
 **@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.
 
 ## Where to start for each interview:
-1. From /metadata directory, download the file [vs_metadata_template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
+1. From [/metadata](https://github.com/swdrop/vs-archive-project/tree/612b461669bf237c7dab1d20db940b0a365a5e4f/metadata) directory, download the file [vs_metadata_template.csv](https://github.com/swdrop/vs-archive-project/blob/ed7f08638c6ded2f4b809ccfba85b32ab56013a2/metadata/vs_metadata_template.csv).
 2. Save file with the following naming format: yyyy-mm-dd-guest-name_metadata.csv
 3. Upload metadata csv file to [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews). This will trigger the creation of a new folder that contains the metadata csv file.
 4. Check [vs-archive-project/interviews](https://github.com/swdrop/vs-archive-project/tree/33989127869e42d46d99c08327e7e5c07bbb2a41/interviews) to confirm new folder was created, and use this folder for any future file uploads related to this interview.
