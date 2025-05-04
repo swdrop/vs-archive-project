@@ -39,3 +39,6 @@ vs-archive-project board is used as this project's central task list. Contributo
 - Done
 
 **@Contributors:** Please continue to update assignments and status levels as Issues are added and tasks progress.
+
+## Where to start:
+
